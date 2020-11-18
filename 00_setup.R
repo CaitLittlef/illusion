@@ -3,11 +3,11 @@
 ###########
 
 #####################################
-## Set working directory to input data
+## Set working directory 
 setwd("C:/Users/clittlef/Google Drive/2Illusion/illusion") # If working with/within drive
 wd <- "C:/Users/clittlef/Google Drive/2Illusion/illusion/"
+data.dir <- "C:/Users/clittlef/Google Drive/2Illusion/illusion/data/"
 out.dir <- "C:/Users/clittlef/Google Drive/2Illusion/illusion/out/"
-code.dir <- "C:/Users/clittlef/Google Drive/2Illusion/illusion/scripts/"
 
 
 
